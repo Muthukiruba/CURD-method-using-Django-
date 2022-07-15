@@ -1,2 +1,1 @@
-# CURD-method-using-Django-
-Create update read delete
+Logistic Reggression and Shallow Neural Network using Moon dataset, blob dataset and CIFAR 10 dataset
